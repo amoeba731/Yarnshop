@@ -3,3 +3,5 @@ _pycache_/
 
 # Environment
 .venv/
+.myvenv/
+
