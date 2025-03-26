@@ -1,1 +1,5 @@
 APIkey.py
+_pycache_/
+
+# Environment
+.venv/

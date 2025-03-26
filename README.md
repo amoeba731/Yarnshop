@@ -22,11 +22,11 @@ To run project:
     for a Windows computer: 
         create the environment using <python -m venv venv>,
         activite the environment with <venv/Scripts/activate>,
-        load the requirements file for the project with     <pip install -r requirements.txt>, and explore the project.
+        load the requirements file for the project with     <pip install -r requirements.txt>, and explore the project in the yarnshop.ipynb file.
         close the virtual environment when done with <deactivate>
      for a Mac/Linux computer:
         create the environment using <python3 -m venv venv>,
         activite the environment with <venv/bin/activate>,
-        load the requirements file for the project with     <pip install -r requirements.txt>, and explore the project.
+        load the requirements file for the project with     <pip install -r requirements.txt>, and explore the project in the yarnshop.ipynb file.
         close the virtual environment when done with <deactivate>
     
