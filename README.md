@@ -1,6 +1,7 @@
 Yarnshop Overview
 With another craft store closing announced in the news, my desire to support my local yarnshop (often refered to as LYS in the crafting world) is increasing.  Unfortunately, my budget does not always allow for "free range" shopping at the store.  Finding craft patterns that are available for free, allows me to have more room in the budget for craft supplies.
 
+This project was coded using Python 3.12.9
 
 Features: 
 1. Loading Data
